@@ -1,80 +1,141 @@
-<!-- LOGO -->
-
-<p align="center">
-  <img src="./assets/logo.png" width="180" />
-</p>
-
-<h1 align="center">RAXOR.exe</h1>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&duration=2500&color=FF6A00&center=true&vCenter=true&width=700&lines=SYSTEM+INITIALIZED;NEXT.JS+SPECIALIST;FULL+STACK+ENGINEER;CYBERPUNK+WEB+ARCHITECT" />
-</p>
-
 ---
 
 # > boot_sequence
 
 ```bash
-> Booting RAXOR.exe ...
+> Power detected...
+> Initializing RAXOR.exe ...
+> Loading developer core...
+> Connecting to cyber interface...
 
-Identity: Full Stack Developer
-Core: Next.js
-Environment: Production
-Interface: Cyberpunk
+[ OK ] Identity verified
+[ OK ] Developer core loaded
+[ OK ] Stack modules initialized
+
+User:        RAXOR
+Role:        Full Stack Developer
+Core:        Next.js
+Status:      ACTIVE
 
 > System ready.
 ```
 
 ---
 
+# > developer_profile
+
+```bash
+Specialization:     Modern Web Applications
+Primary Stack:     Next.js / Node.js / JavaScript
+Secondary Stack:   PHP / Java / Database Systems
+
+Capabilities:
+- Frontend Engineering
+- Backend Development
+- Database Integration
+- Full Stack Architecture
+- Production Deployment
+
+Environment:       Cyberpunk Web Systems
+Execution Mode:    Production
+```
+
+---
+
 # > tech_stack
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=nextjs,react,ts,nodejs,js,html,css,tailwind,git,github,vscode&theme=dark" />
-</p>
-
 ```diff
-+ Next.js Architecture
-+ React Ecosystem
-+ TypeScript Systems
-+ Node.js Backend
-+ Modern UI Engineering
+[ FRONTEND MODULES ]
++ Next.js
++ HTML5
++ CSS3
++ JavaScript
+
+[ BACKEND MODULES ]
++ Node.js
++ PHP
++ Java
+
+[ DATABASE SYSTEMS ]
++ Database Integration
++ SQL / Backend Data Handling
+
+[ CORE SYSTEMS ]
++ Full Stack Architecture
++ API Systems
++ Web Application Deployment
+```
+
+---
+
+# > system_status
+
+```bash
+Frontend Core:     ONLINE
+Backend Core:      ONLINE
+Database Layer:    CONNECTED
+API Systems:       OPERATIONAL
+Dev Environment:   STABLE
+
+Security:          ACTIVE
+Performance:       OPTIMAL
+
+No errors detected.
 ```
 
 ---
 
 # > activity_monitor
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ton-username&bg_color=000000&color=FF6A00&line=FF6A00&point=FFFFFF&hide_border=true"/>
-</p>
+```bash
+Scanning repositories...
+Monitoring commits...
+Tracking development activity...
+
+Developer status: ACTIVE
+System status:    STABLE
+```
 
 ---
 
 # > runtime_metrics
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=ton-username&theme=transparent&hide_border=true&background=000000&ring=FF6A00&fire=FF6A00&currStreakLabel=FF6A00&sideLabels=FFFFFF&currStreakNum=FFFFFF"/>
-</p>
+```bash
+Execution Mode:        FULL STACK
+Next.js Engine:        ACTIVE
+Node.js Runtime:       ACTIVE
+Database Connection:   STABLE
+
+Focus Level:           MAXIMUM
+Code Output:           OPTIMIZED
+System Stability:      100%
+```
 
 ---
 
 # > achievements
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ton-username&theme=darkhub&no-frame=true&no-bg=true&margin-w=15"/>
-</p>
+```bash
+Skills unlocked:
+
+[✓] Next.js Development
+[✓] Frontend Engineering
+[✓] Backend Systems
+[✓] Database Integration
+[✓] PHP Development
+[✓] Java Development
+[✓] Full Stack Architecture
+
+Progress: CONTINUOUS
+```
 
 ---
 
 # > shutdown_protocol
 
 ```bash
-> Monitoring repositories...
-> Awaiting next deployment...
-> RAXOR.exe active.
-```
+System monitoring active...
+Awaiting next deployment...
 
-<p align="center">
-  <img src="./assets/logo.png" width="70"/>
-</p>
+RAXOR.exe running.
+```
