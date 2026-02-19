@@ -1,69 +1,87 @@
+<!-- TOP LOGO -->
+
+<p align="center">
+  <img src="./assets/logo.png" width="180"/>
+</p>
+
+<h1 align="center">RAXOR.exe</h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=3000&color=FF6A00&center=true&vCenter=true&width=700&lines=INITIALIZING+RAXOR+SYSTEM;FULL+STACK+DEVELOPER;NEXT.JS+SPECIALIST;CYBERPUNK+WEB+ENGINEER" />
+</p>
+
 ---
 
-# > boot_sequence
+# > system_boot
+
+<p align="center">
+  <img src="./assets/logo.png" width="100"/>
+</p>
 
 ```bash
-> Power detected...
-> Initializing RAXOR.exe ...
-> Loading developer core...
-> Connecting to cyber interface...
+████████████████████████████████
+
+RAXOR.exe v3.1.7
+
+Initializing cyber interface...
+Loading core modules...
+Linking neural developer systems...
 
 [ OK ] Identity verified
-[ OK ] Developer core loaded
-[ OK ] Stack modules initialized
+[ OK ] Core initialized
+[ OK ] Stack modules loaded
 
-User:        RAXOR
-Role:        Full Stack Developer
-Core:        Next.js
-Status:      ACTIVE
+Access granted.
 
-> System ready.
+████████████████████████████████
 ```
 
 ---
 
-# > developer_profile
+# > identity_protocol
 
 ```bash
-Specialization:     Modern Web Applications
-Primary Stack:     Next.js / Node.js / JavaScript
-Secondary Stack:   PHP / Java / Database Systems
+User:              RAXOR
+Role:              Full Stack Developer
+Specialization:    Next.js Systems
 
-Capabilities:
-- Frontend Engineering
-- Backend Development
-- Database Integration
-- Full Stack Architecture
-- Production Deployment
-
-Environment:       Cyberpunk Web Systems
-Execution Mode:    Production
+Environment:       Cyberpunk Web Architecture
+Interface:         Developer Neural Link
+Status:            ONLINE
 ```
 
 ---
 
-# > tech_stack
+# > stack_modules
+
+<p align="center">
+  <img src="./assets/logo.png" width="80"/>
+</p>
 
 ```diff
-[ FRONTEND MODULES ]
+████ FRONTEND ████
+
 + Next.js
 + HTML5
 + CSS3
 + JavaScript
 
-[ BACKEND MODULES ]
+████ BACKEND ████
+
 + Node.js
 + PHP
 + Java
 
-[ DATABASE SYSTEMS ]
-+ Database Integration
-+ SQL / Backend Data Handling
+████ DATABASE ████
 
-[ CORE SYSTEMS ]
-+ Full Stack Architecture
++ Database Integration
++ SQL Systems
+
+████ CORE ████
+
++ Full Stack Development
 + API Systems
-+ Web Application Deployment
++ Web Application Architecture
 ```
 
 ---
@@ -71,29 +89,15 @@ Execution Mode:    Production
 # > system_status
 
 ```bash
-Frontend Core:     ONLINE
-Backend Core:      ONLINE
-Database Layer:    CONNECTED
-API Systems:       OPERATIONAL
-Dev Environment:   STABLE
+Frontend Engine      ONLINE      [██████████]
+Backend Engine       ONLINE      [██████████]
+Database Layer       CONNECTED   [██████████]
+API Systems          ACTIVE      [██████████]
 
-Security:          ACTIVE
-Performance:       OPTIMAL
+Security Layer       ACTIVE
+Performance          OPTIMAL
 
 No errors detected.
-```
-
----
-
-# > activity_monitor
-
-```bash
-Scanning repositories...
-Monitoring commits...
-Tracking development activity...
-
-Developer status: ACTIVE
-System status:    STABLE
 ```
 
 ---
@@ -101,23 +105,21 @@ System status:    STABLE
 # > runtime_metrics
 
 ```bash
-Execution Mode:        FULL STACK
-Next.js Engine:        ACTIVE
-Node.js Runtime:       ACTIVE
-Database Connection:   STABLE
+Next.js Engine         ACTIVE
+Node.js Runtime        ACTIVE
+PHP Engine             ACTIVE
+Java Runtime           ACTIVE
 
-Focus Level:           MAXIMUM
-Code Output:           OPTIMIZED
-System Stability:      100%
+Execution Mode         PRODUCTION
+System Stability       100%
+Code Quality           OPTIMIZED
 ```
 
 ---
 
-# > achievements
+# > skill_matrix
 
-```bash
-Skills unlocked:
-
+```diff
 [✓] Next.js Development
 [✓] Frontend Engineering
 [✓] Backend Systems
@@ -126,16 +128,30 @@ Skills unlocked:
 [✓] Java Development
 [✓] Full Stack Architecture
 
-Progress: CONTINUOUS
+Skill Level: ADVANCED
 ```
 
 ---
 
-# > shutdown_protocol
+# > termination_protocol
 
 ```bash
-System monitoring active...
+System secure.
+Monitoring active.
+
 Awaiting next deployment...
 
 RAXOR.exe running.
 ```
+
+---
+
+<!-- FOOTER LOGO -->
+
+<p align="center">
+  <img src="./assets/logo.png" width="120"/>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=16&duration=4000&color=FF6A00&center=true&vCenter=true&width=500&lines=RAXOR.exe+ONLINE;SYSTEM+STABLE;READY+FOR+DEPLOYMENT" />
+</p>
