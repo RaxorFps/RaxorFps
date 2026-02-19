@@ -91,7 +91,7 @@ SQL Systems   ████████████
 # 🟧 NEURAL ACTIVITY MONITOR
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ton-username&bg_color=000000&color=FF6A00&line=FF6A00&point=FFFFFF&hide_border=true"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RaxorFps&bg_color=000000&color=FF6A00&line=FF6A00&point=FFFFFF&hide_border=true"/>
 </p>
 
 ---
